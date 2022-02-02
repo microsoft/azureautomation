@@ -1,0 +1,85 @@
+#navigation {
+  background-color: #0063b1;
+}
+@media only screen and (max-width: 370px) {
+  a.brand-logo.center {
+    font-size: 20px;
+  }
+}
+#PicturePreview {
+  text-align: center;
+}
+#PredictedPicture {
+  width: 200px;
+  height: auto;
+  object-fit: cover;
+}
+.picture.col.m12 {
+  float: none;
+}
+.picture.col.l4 {
+  float: left;
+}
+.button.col.m12 {
+  float: none;
+}
+.button.col.l4 {
+  float: left;
+}
+.PredictButton {
+  text-align: center;
+}
+.btn,
+.btn-large,
+.btn-small {
+  background-color: #0078d7 !important;
+}
+.btn:hover,
+.btn-large:hover,
+.btn-small:hover {
+  background-color: #0078d7 !important;
+}
+.btn:hover,
+.btn-large:hover,
+.btn-small:hover {
+  background-color: #0078d7 !important;
+}
+.btn,
+.btn-large,
+.btn-small {
+  background-color: #0078d7 !important;
+}
+input.valid:not([type]),
+input.valid:not([type]):focus,
+input.valid[type="text"]:not(.browser-default),
+input.valid[type="text"]:not(.browser-default):focus,
+input.valid[type="password"]:not(.browser-default),
+input.valid[type="password"]:not(.browser-default):focus,
+input.valid[type="email"]:not(.browser-default),
+input.valid[type="email"]:not(.browser-default):focus,
+input.valid[type="url"]:not(.browser-default),
+input.valid[type="url"]:not(.browser-default):focus,
+input.valid[type="time"]:not(.browser-default),
+input.valid[type="time"]:not(.browser-default):focus,
+input.valid[type="date"]:not(.browser-default),
+input.valid[type="date"]:not(.browser-default):focus,
+input.valid[type="datetime"]:not(.browser-default),
+input.valid[type="datetime"]:not(.browser-default):focus,
+input.valid[type="datetime-local"]:not(.browser-default),
+input.valid[type="datetime-local"]:not(.browser-default):focus,
+input.valid[type="tel"]:not(.browser-default),
+input.valid[type="tel"]:not(.browser-default):focus,
+input.valid[type="number"]:not(.browser-default),
+input.valid[type="number"]:not(.browser-default):focus,
+input.valid[type="search"]:not(.browser-default),
+input.valid[type="search"]:not(.browser-default):focus,
+textarea.materialize-textarea.valid,
+textarea.materialize-textarea.valid:focus,
+.select-wrapper.valid > input.select-dropdown {
+  border-bottom: 1px solid #0078d7 !important;
+  -webkit-box-shadow: 0 1px 0 0 #0078d7 !important;
+  box-shadow: 0 1px 0 0 #0078d7 !important;
+}
+td {
+  text-align: center;
+}
